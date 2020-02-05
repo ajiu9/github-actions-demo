@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/[ajiu9].github.io/github-actions-demo/static/css/main.d1b05096.chunk.css",
+    "main.js": "/[ajiu9].github.io/github-actions-demo/static/js/main.368d9fcb.chunk.js",
+    "main.js.map": "/[ajiu9].github.io/github-actions-demo/static/js/main.368d9fcb.chunk.js.map",
+    "runtime-main.js": "/[ajiu9].github.io/github-actions-demo/static/js/runtime-main.a91537d6.js",
+    "runtime-main.js.map": "/[ajiu9].github.io/github-actions-demo/static/js/runtime-main.a91537d6.js.map",
+    "static/js/2.1419e5ba.chunk.js": "/[ajiu9].github.io/github-actions-demo/static/js/2.1419e5ba.chunk.js",
+    "static/js/2.1419e5ba.chunk.js.map": "/[ajiu9].github.io/github-actions-demo/static/js/2.1419e5ba.chunk.js.map",
+    "index.html": "/[ajiu9].github.io/github-actions-demo/index.html",
+    "precache-manifest.02f0351b7bbc250dc301f64535e31cf0.js": "/[ajiu9].github.io/github-actions-demo/precache-manifest.02f0351b7bbc250dc301f64535e31cf0.js",
+    "service-worker.js": "/[ajiu9].github.io/github-actions-demo/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/[ajiu9].github.io/github-actions-demo/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.1419e5ba.chunk.js.LICENSE.txt": "/[ajiu9].github.io/github-actions-demo/static/js/2.1419e5ba.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/[ajiu9].github.io/github-actions-demo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a91537d6.js",
+    "static/js/2.1419e5ba.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.368d9fcb.chunk.js"
+  ]
+}
